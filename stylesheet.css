@@ -1,0 +1,11 @@
+body{
+    background-color: #2f4f4f;
+}
+.tradingview-widget-container div div {
+    height: 600px !important;
+    width: 350px ;
+ }
+ .tradingview-widget-container{
+    float: left;
+    width: 50%;
+ }
