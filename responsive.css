@@ -1,0 +1,20 @@
+@media all and (max-width: 1000px){
+    .tradingview-widget-container div div {
+        height: 700px !important;
+        width: 500px !important;
+     }
+     .tradingview-widget-container{
+        float: left;
+        width: 100%;
+     }
+  }  
+@media all and (max-width: 670px) {
+    .tradingview-widget-container div div {
+        height: 562px !important;
+        width: 600px !important;
+     }
+     .tradingview-widget-container{
+        float: left;
+        width: 100%;
+     }
+  }
